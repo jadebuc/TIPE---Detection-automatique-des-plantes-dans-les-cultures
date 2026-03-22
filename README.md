@@ -8,6 +8,8 @@ L’objectif est d’entraîner un modèle YOLOv8 pour différencier les feuille
 
 Le dépôt contient :
 - mon script d’entraînement YOLO (yolo.py)
-- un CNN simple (cnn.py) utilisé pour des tests préliminaires
+- un CNN simple (cnn.py) 
 - le dataset organisé au format YOLO
 - les poids entraînés (cnn.pth)
+- exemple transformation pour optimiser l'efficacite de l'entrainement (transformation.py)
+- une fois le modele entrainer on peut tester le code avec une image choisie (fenetre.py)
