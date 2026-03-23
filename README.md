@@ -1,6 +1,6 @@
 # TIPE---Detection-automatique-des-plantes-dans-les-cultures
 
-Ce projet a été réalisé dans le cadre de mon TIPE pour les concours d'ecole d'ingenieurs 2025.
+Ce projet a été réalisé dans le cadre de mon TIPE pour les concours d'ecoles d'ingenieurs 2025.
 L’objectif est d’entraîner un cnn pour différencier les feuilles de plantes (apple, blueberry, cherry, corn, soybean, tomato).
 
 
