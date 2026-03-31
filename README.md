@@ -11,4 +11,4 @@ Le dépôt contient :
 - le dataset
 - les poids entraînés (cnn.pth)
 - exemple transformation pour optimiser l'efficacite de l'entrainement (transformation.py)
-- une fois le modele entrainer on peut tester le code avec une image choisie (fenetre.py)
+- une fois le modèle entraîné on peut tester le code avec une image choisie (fenetre.py)
